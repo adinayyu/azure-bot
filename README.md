@@ -29,3 +29,6 @@ https://drive.google.com/file/d/1GsX3MqBDf34g5-y877ehXbLAsCWApY1b/view?usp=shari
 https://drive.google.com/file/d/1VT36Fo7O7PytOx7OpND1zQ_GW5J4iUjE/view?usp=sharing
 
 https://drive.google.com/file/d/1V_sNeNeBGUmRovCu0CdvXoJexY3p-eAl/view?usp=sharing
+
+For deploying html page i have used azure static web app
+Project URL 1-https://victorious-field-090c61710.1.azurestaticapps.net
