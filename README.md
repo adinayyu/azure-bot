@@ -14,6 +14,10 @@ https://drive.google.com/file/d/1oPoi7vAxkcl4ZxLkSvLHO5-vVlCwAohZ/view?usp=shari
 
 https://drive.google.com/file/d/1yZ1jmCXRE1DF9LhpTrW6NAzRwGVwwNnV/view?usp=sharing
 
+https://drive.google.com/file/d/1pOCZqlzrqhrNpw_5A1EbiXytvyf_m0BL/view?usp=sharing
+
 Second is azure bot service. I have used it to create a web app bot and deploy the bot to use it live
 
-https://drive.google.com/file/d/1VBH2b1l6N4z4ZzQj4Q4xgTqKcAJn7wud/view?usp=sharing
+https://drive.google.com/file/d/1Y1Vi4WFqOjt1YqmYsEnkU0No27mbtmEG/view?usp=sharing
+
+https://drive.google.com/file/d/1YZH4Go5zy86rjDWSSQV87piX6J9RuUCj/view?usp=sharing
