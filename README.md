@@ -21,3 +21,11 @@ Second is azure bot service. I have used it to create a web app bot and deploy t
 https://drive.google.com/file/d/1Y1Vi4WFqOjt1YqmYsEnkU0No27mbtmEG/view?usp=sharing
 
 https://drive.google.com/file/d/1YZH4Go5zy86rjDWSSQV87piX6J9RuUCj/view?usp=sharing
+
+I have created a html page for this bot and using configure web chat linked the bot using iframe tag
+
+https://drive.google.com/file/d/1GsX3MqBDf34g5-y877ehXbLAsCWApY1b/view?usp=sharing
+
+https://drive.google.com/file/d/1VT36Fo7O7PytOx7OpND1zQ_GW5J4iUjE/view?usp=sharing
+
+https://drive.google.com/file/d/1V_sNeNeBGUmRovCu0CdvXoJexY3p-eAl/view?usp=sharing
