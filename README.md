@@ -33,3 +33,5 @@ https://drive.google.com/file/d/1V_sNeNeBGUmRovCu0CdvXoJexY3p-eAl/view?usp=shari
 For deploying html page i have used azure static web app service
 
 Project URL-https://victorious-field-090c61710.1.azurestaticapps.net
+
+Video URL-https://drive.google.com/file/d/1-fGB796rZV7vdQXrr-jMdhaZ0BUn0eKQ/view?usp=sharing
