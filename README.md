@@ -1,0 +1,16 @@
+# azure-bot
+I have made a future ready talent bot using two azure services. 
+Though future ready talent faq page is available, i have linked it with a bot as it will be more interactive for anyone who have queries or doubts related to future ready talent program
+
+I have used two azure services:
+
+First is azure qna maker. I have used it to create a qna service, connect it with knowledge base and later train the bot
+
+https://drive.google.com/file/d/13QPXWJ68ScBKUR8q8YVYYNEKP9D_rcUX/view?usp=sharing
+https://drive.google.com/file/d/1LUu3Eo27h-WBglhZ0wulGywAF55mJKGH/view?usp=sharing
+https://drive.google.com/file/d/1oPoi7vAxkcl4ZxLkSvLHO5-vVlCwAohZ/view?usp=sharing
+https://drive.google.com/file/d/1yZ1jmCXRE1DF9LhpTrW6NAzRwGVwwNnV/view?usp=sharing
+
+Second is azure bot service. I have used it to create a web app bot and deploy the bot to use it live
+
+https://drive.google.com/file/d/1VBH2b1l6N4z4ZzQj4Q4xgTqKcAJn7wud/view?usp=sharing
