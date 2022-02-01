@@ -1,6 +1,6 @@
 # azure-bot
 I have made a future ready talent bot using two azure services. 
-Though future ready talent faq page is available, i have linked it with a bot as it will be more interactive for anyone who have queries or doubts related to future ready talent program
+Though future ready talent faq page is already available, i have linked it with a bot so that anyone who have queries or doubts related to future ready talent program can interact directly with bot
 
 I have used two azure services:
 
